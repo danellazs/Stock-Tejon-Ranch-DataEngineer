@@ -24,4 +24,4 @@ This project fetches stock data from Alpha Vantage and weather data from Visual 
 - Satama Safika -22/492880/TK/53955
 
 ### Supported by
-![image](https://github.com/user-attachments/assets/3c5213f9-4281-4e89-80a2-b557429cbbc2) ![image](https://github.com/user-attachments/assets/8bcc7429-3ff7-4f92-8b81-517126e57e90)
+<img src="[https://link.ke.gambar.png](https://github.com/user-attachments/assets/3c5213f9-4281-4e89-80a2-b557429cbbc2)" alt="Deskripsi Gambar" width="200">![image](https://github.com/user-attachments/assets/8bcc7429-3ff7-4f92-8b81-517126e57e90)
