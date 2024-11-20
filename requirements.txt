@@ -1,0 +1,4 @@
+requests
+pandas
+apache-airflow
+boto3  # Untuk integrasi AWS S3
