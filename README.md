@@ -18,3 +18,7 @@ This project fetches stock data from Alpha Vantage and weather data from Visual 
 1. Alpha antage API Key: [link](https://www.alphavantage.co/)
 2. Visual Crossing API Key: [link](https://www.visualcrossing.com/)
 
+## Member Group
+- Athaya Harmana Putri -(NIM)
+- Danella Zefanya Siahaan -(NIM)
+- Satama Safika -22/492880/TK/53955
