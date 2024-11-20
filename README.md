@@ -15,6 +15,6 @@ This project fetches stock data from Alpha Vantage and weather data from Visual 
    airflow dags trigger stock_weather_etl
 
 ## API Keys
-1. Alpha antage API Key: (link)
-2. Visual Crossing API Key: (link)
+1. Alpha antage API Key: [link](https://www.alphavantage.co/)
+2. Visual Crossing API Key: [link](https://www.visualcrossing.com/)
 
