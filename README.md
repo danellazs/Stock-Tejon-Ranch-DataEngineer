@@ -22,3 +22,6 @@ This project fetches stock data from Alpha Vantage and weather data from Visual 
 - Athaya Harmana Putri -22/492673/TK/53930
 - Danella Zefanya Siahaan -22/492877/TK/53953
 - Satama Safika -22/492880/TK/53955
+
+### Supported by
+![image](https://github.com/user-attachments/assets/3c5213f9-4281-4e89-80a2-b557429cbbc2) ![image](https://github.com/user-attachments/assets/8bcc7429-3ff7-4f92-8b81-517126e57e90)
