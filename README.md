@@ -15,10 +15,10 @@ This project fetches stock data from Alpha Vantage and weather data from Visual 
    airflow dags trigger stock_weather_etl
 
 ## API Keys
-1. Alpha antage API Key: [link](https://www.alphavantage.co/)
-2. Visual Crossing API Key: [link](https://www.visualcrossing.com/)
+1. Alpha antage API Key: [CLICK HERE!](https://www.alphavantage.co/)
+2. Visual Crossing API Key: [CLICK HERE!](https://www.visualcrossing.com/)
 
 ## Member Group
-- Athaya Harmana Putri -(NIM)
-- Danella Zefanya Siahaan -(NIM)
+- Athaya Harmana Putri -22/492673/TK/53930
+- Danella Zefanya Siahaan -22/492877/TK/53953
 - Satama Safika -22/492880/TK/53955
