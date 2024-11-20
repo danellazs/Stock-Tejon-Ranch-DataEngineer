@@ -1,12 +1,12 @@
-# Alpha Ventaga
+# Alpha Ventaga API
 
 import requests
 import pandas as pd
 from datetime import datetime, timedelta
 
-# Ganti dengan simbol saham perusahaan pertanian yang diinginkan
-symbol = 'TRC'  # Misalnya untuk Tejon Ranch
-api_key_stock = 'WN3N2YITLUYA6QXG'  # Ganti dengan API Key Anda
+# Simbol saham perusahaan pertanian: Tejon Ranch
+symbol = 'TRC'  
+api_key_stock = 'WN3N2YITLUYA6QXG'  #API Key Alpha Ventega API
 
 # Fungsi untuk mengambil data saham harian dalam rentang tanggal yang diberikan
 def get_stock_data(symbol, api_key, start_date, end_date):
